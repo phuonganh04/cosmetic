@@ -1,0 +1,15 @@
+@use "../../../styles/variables";
+
+.admin-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  padding: 10px 40px;
+  background-color: variables.$primary-color;
+
+  &__right {
+    display: flex;
+    align-items: center;
+  }
+}

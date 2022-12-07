@@ -1,0 +1,9 @@
+.home-hot-category {
+    :global {
+      .ant-btn {
+        & > span {
+          color: #cb6916;
+        }
+      }
+    }
+}

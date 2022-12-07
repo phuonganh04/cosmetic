@@ -1,0 +1,68 @@
+.home-product {
+  :global {
+      .ant-tabs-nav {
+          &:before {
+              display: none;
+          }
+      }
+      .ant-tabs-tab {
+          color: #cb6916;
+          font-size: 18px;
+
+          &:hover {
+              font-weight: 700;
+          }
+
+          &-active {
+              & > .ant-tabs-tab-btn {
+                  color: #cb6916;
+                  font-weight: 700;
+              }
+          }
+      }
+      .ant-tabs-ink-bar {
+          display: none;
+      }
+      .ant-tabs-nav-wrap {
+          justify-content: center;
+      }
+
+      .slick-next {
+          right: -25px;
+          height: 70px;
+          width: 30px;
+          display: flex !important;
+          justify-content: center;
+          align-items: center;
+          background-color: rgb(145, 145, 145);
+          color: white;
+          font-size: 20px;
+          border-radius: 20px;
+          z-index: 1;
+
+          &:hover {
+              background-color: rgb(145, 145, 145, 0.6);
+              color: #fff;
+          }
+      }
+
+      .slick-prev {
+          left: -25px;
+          height: 70px;
+          width: 30px;
+          display: flex !important;
+          justify-content: center;
+          align-items: center;
+          background-color: rgb(145, 145, 145);
+          color: white;
+          font-size: 20px;
+          border-radius: 20px;
+          z-index: 1;
+
+          &:hover {
+              background-color: rgb(145, 145, 145, 0.6);
+              color: #fff;
+          }
+      }
+  }
+}

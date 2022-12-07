@@ -1,0 +1,43 @@
+@use "styles/variables";
+
+.home-menu__right {
+    :global {
+        .ant-menu-item:after {
+            display: none !important;
+        }
+
+        .ant-menu-item {
+            &-selected {
+                &:after {
+                    display: none !important;
+                }
+            }
+        }
+
+        .ant-menu-submenu {
+
+            &:after {
+                border-bottom: transparent !important;
+            }
+        }
+
+        .ant-menu-item {
+            &-selected {
+
+                &:after {
+                    a {
+                        display: none !important;
+                    }
+                }
+            }
+        }
+
+        .ant-menu-submenu {
+            &:after {
+                a {
+                    border-bottom: transparent !important;
+                }
+            }
+        }
+    }
+}

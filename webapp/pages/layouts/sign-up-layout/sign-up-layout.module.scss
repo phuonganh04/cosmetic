@@ -1,0 +1,25 @@
+@use "../../../styles/variables";
+
+.sign-up-layout {
+  &__header {
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
+    background-color: #FFFFFF;
+    font-size: 20px;
+  }
+
+  &__content {
+    background-color: variables.$primary-color;
+    height: 600px;
+    background-image: url("/assets/images/kisspng-autumn-drawing-decorative-arts-illustration-autumn-pumpkin-vector-5a8ea096f1dae0.2125868315192966629907.png");;
+    background-size: cover;
+
+    &__main {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      height: 600px;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.user {
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  
+  &:hover {
+    color: #e0e0e0;
+
+    :global {
+      .ant-typography {
+        color: #e0e0e0;
+      }
+    }
+  }
+
+  &--image {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+  }
+
+  :global {
+    .ant-typography {
+      color: #FFFFFF;
+    }
+  }
+}

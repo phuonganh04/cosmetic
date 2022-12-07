@@ -1,0 +1,443 @@
+[
+  {
+    "name": "V\u0129nh Ph\u00fac",
+    "slug": "vinh-phuc",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh V\u0129nh Ph\u00fac",
+    "code": "26"
+  },
+  {
+    "name": "Ninh B\u00ecnh",
+    "slug": "ninh-binh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ninh B\u00ecnh",
+    "code": "37"
+  },
+  {
+    "name": "C\u00e0 Mau",
+    "slug": "ca-mau",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh C\u00e0 Mau",
+    "code": "96"
+  },
+  {
+    "name": "Ngh\u1ec7 An",
+    "slug": "nghe-an",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ngh\u1ec7 An",
+    "code": "40"
+  },
+  {
+    "name": "V\u0129nh Long",
+    "slug": "vinh-long",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh V\u0129nh Long",
+    "code": "86"
+  },
+  {
+    "name": "Qu\u1ea3ng B\u00ecnh",
+    "slug": "quang-binh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+    "code": "44"
+  },
+  {
+    "name": "H\u1ea3i Ph\u00f2ng",
+    "slug": "hai-phong",
+    "type": "thanh-pho",
+    "name_with_type": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+    "code": "31"
+  },
+  {
+    "name": "H\u00e0 N\u1ed9i",
+    "slug": "ha-noi",
+    "type": "thanh-pho",
+    "name_with_type": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+    "code": "01"
+  },
+  {
+    "name": "\u0110\u1ed3ng Th\u00e1p",
+    "slug": "dong-thap",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+    "code": "87"
+  },
+  {
+    "name": "Lai Ch\u00e2u",
+    "slug": "lai-chau",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Lai Ch\u00e2u",
+    "code": "12"
+  },
+  {
+    "name": "H\u01b0ng Y\u00ean",
+    "slug": "hung-yen",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh H\u01b0ng Y\u00ean",
+    "code": "33"
+  },
+  {
+    "name": "L\u1ea1ng S\u01a1n",
+    "slug": "lang-son",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+    "code": "20"
+  },
+  {
+    "name": "\u0110\u1ed3ng Nai",
+    "slug": "dong-nai",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh \u0110\u1ed3ng Nai",
+    "code": "75"
+  },
+  {
+    "name": "Ti\u1ec1n Giang",
+    "slug": "tien-giang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ti\u1ec1n Giang",
+    "code": "82"
+  },
+  {
+    "name": "Ph\u00fa Y\u00ean",
+    "slug": "phu-yen",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ph\u00fa Y\u00ean",
+    "code": "54"
+  },
+  {
+    "name": "Y\u00ean B\u00e1i",
+    "slug": "yen-bai",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Y\u00ean B\u00e1i",
+    "code": "15"
+  },
+  {
+    "name": "B\u00ecnh D\u01b0\u01a1ng",
+    "slug": "binh-duong",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+    "code": "74"
+  },
+  {
+    "name": "Qu\u1ea3ng Nam",
+    "slug": "quang-nam",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Qu\u1ea3ng Nam",
+    "code": "49"
+  },
+  {
+    "name": "\u0110i\u1ec7n Bi\u00ean",
+    "slug": "dien-bien",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+    "code": "11"
+  },
+  {
+    "name": "Kon Tum",
+    "slug": "kon-tum",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Kon Tum",
+    "code": "62"
+  },
+  {
+    "name": "B\u1ea1c Li\u00eau",
+    "slug": "bac-lieu",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u1ea1c Li\u00eau",
+    "code": "95"
+  },
+  {
+    "name": "\u0110\u1eafk L\u1eafk",
+    "slug": "dak-lak",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+    "code": "66"
+  },
+  {
+    "name": "An Giang",
+    "slug": "an-giang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh An Giang",
+    "code": "89"
+  },
+  {
+    "name": "Thanh H\u00f3a",
+    "slug": "thanh-hoa",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Thanh H\u00f3a",
+    "code": "38"
+  },
+  {
+    "name": "Qu\u1ea3ng Ng\u00e3i",
+    "slug": "quang-ngai",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+    "code": "51"
+  },
+  {
+    "name": "T\u00e2y Ninh",
+    "slug": "tay-ninh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh T\u00e2y Ninh",
+    "code": "72"
+  },
+  {
+    "name": "B\u1eafc Giang",
+    "slug": "bac-giang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u1eafc Giang",
+    "code": "24"
+  },
+  {
+    "name": "H\u1ed3 Ch\u00ed Minh",
+    "slug": "ho-chi-minh",
+    "type": "thanh-pho",
+    "name_with_type": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+    "code": "79"
+  },
+  {
+    "name": "Ninh Thu\u1eadn",
+    "slug": "ninh-thuan",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ninh Thu\u1eadn",
+    "code": "58"
+  },
+  {
+    "name": "Tuy\u00ean Quang",
+    "slug": "tuyen-quang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Tuy\u00ean Quang",
+    "code": "08"
+  },
+  {
+    "name": "S\u01a1n La",
+    "slug": "son-la",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh S\u01a1n La",
+    "code": "14"
+  },
+  {
+    "name": "Nam \u0110\u1ecbnh",
+    "slug": "nam-dinh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Nam \u0110\u1ecbnh",
+    "code": "36"
+  },
+  {
+    "name": "H\u00e0 Nam",
+    "slug": "ha-nam",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh H\u00e0 Nam",
+    "code": "35"
+  },
+  {
+    "name": "H\u1ea3i D\u01b0\u01a1ng",
+    "slug": "hai-duong",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+    "code": "30"
+  },
+  {
+    "name": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+    "slug": "ba-ria-vung-tau",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+    "code": "77"
+  },
+  {
+    "name": "Ki\u00ean Giang",
+    "slug": "kien-giang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ki\u00ean Giang",
+    "code": "91"
+  },
+  {
+    "name": "Cao B\u1eb1ng",
+    "slug": "cao-bang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Cao B\u1eb1ng",
+    "code": "04"
+  },
+  {
+    "name": "H\u00e0 T\u0129nh",
+    "slug": "ha-tinh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh H\u00e0 T\u0129nh",
+    "code": "42"
+  },
+  {
+    "name": "Gia Lai",
+    "slug": "gia-lai",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Gia Lai",
+    "code": "64"
+  },
+  {
+    "name": "Ho\u00e0 B\u00ecnh",
+    "slug": "hoa-binh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+    "code": "17"
+  },
+  {
+    "name": "S\u00f3c Tr\u0103ng",
+    "slug": "soc-trang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+    "code": "94"
+  },
+  {
+    "name": "B\u00ecnh \u0110\u1ecbnh",
+    "slug": "binh-dinh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+    "code": "52"
+  },
+  {
+    "name": "Th\u00e1i B\u00ecnh",
+    "slug": "thai-binh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+    "code": "34"
+  },
+  {
+    "name": "Ph\u00fa Th\u1ecd",
+    "slug": "phu-tho",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+    "code": "25"
+  },
+  {
+    "name": "H\u1eadu Giang",
+    "slug": "hau-giang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh H\u1eadu Giang",
+    "code": "93"
+  },
+  {
+    "name": "C\u1ea7n Th\u01a1",
+    "slug": "can-tho",
+    "type": "thanh-pho",
+    "name_with_type": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+    "code": "92"
+  },
+  {
+    "name": "Qu\u1ea3ng Ninh",
+    "slug": "quang-ninh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Qu\u1ea3ng Ninh",
+    "code": "22"
+  },
+  {
+    "name": "Qu\u1ea3ng Tr\u1ecb",
+    "slug": "quang-tri",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+    "code": "45"
+  },
+  {
+    "name": "L\u00e0o Cai",
+    "slug": "lao-cai",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh L\u00e0o Cai",
+    "code": "10"
+  },
+  {
+    "name": "\u0110\u1eafk N\u00f4ng",
+    "slug": "dak-nong",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+    "code": "67"
+  },
+  {
+    "name": "B\u1eafc Ninh",
+    "slug": "bac-ninh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u1eafc Ninh",
+    "code": "27"
+  },
+  {
+    "name": "L\u00e2m \u0110\u1ed3ng",
+    "slug": "lam-dong",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+    "code": "68"
+  },
+  {
+    "name": "Th\u00e1i Nguy\u00ean",
+    "slug": "thai-nguyen",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+    "code": "19"
+  },
+  {
+    "name": "B\u00ecnh Thu\u1eadn",
+    "slug": "binh-thuan",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+    "code": "60"
+  },
+  {
+    "name": "Kh\u00e1nh H\u00f2a",
+    "slug": "khanh-hoa",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+    "code": "56"
+  },
+  {
+    "name": "B\u1ebfn Tre",
+    "slug": "ben-tre",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u1ebfn Tre",
+    "code": "83"
+  },
+  {
+    "name": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+    "slug": "thua-thien-hue",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+    "code": "46"
+  },
+  {
+    "name": "H\u00e0 Giang",
+    "slug": "ha-giang",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh H\u00e0 Giang",
+    "code": "02"
+  },
+  {
+    "name": "Tr\u00e0 Vinh",
+    "slug": "tra-vinh",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Tr\u00e0 Vinh",
+    "code": "84"
+  },
+  {
+    "name": "Long An",
+    "slug": "long-an",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh Long An",
+    "code": "80"
+  },
+  {
+    "name": "B\u1eafc K\u1ea1n",
+    "slug": "bac-kan",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u1eafc K\u1ea1n",
+    "code": "06"
+  },
+  {
+    "name": "\u0110\u00e0 N\u1eb5ng",
+    "slug": "da-nang",
+    "type": "thanh-pho",
+    "name_with_type": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+    "code": "48"
+  },
+  {
+    "name": "B\u00ecnh Ph\u01b0\u1edbc",
+    "slug": "binh-phuoc",
+    "type": "tinh",
+    "name_with_type": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+    "code": "70"
+  }
+]
